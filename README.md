@@ -41,7 +41,7 @@ Harga & spesifikasi lengkap selalu ter-update di [bimxyz.id/produk](https://www.
 ## FAQ
 
 **Apa itu Panel Pterodactyl dari Bimxyz Official?**
-Panel Pterodactyl adalah web panel untuk menjalankan dan mengelola server (bot WhatsApp, script Node.js/Python, dsb) tanpa akses SSH langsung. Bimxyz Official menyewakan panel ini bulanan dengan harga mulai Rp 3.000.
+Panel Pterodactyl adalah web panel untuk menjalankan dan mengelola server (bot WhatsApp, script Node.js/Python, dsb) tanpa akses SSH langsung. Bimxyz Official menyewakan panel ini bulanan dengan harga mulai Rp 7.000.
 
 **Metode pembayaran apa saja yang didukung?**
 QRIS otomatis (instan, mendukung semua e-wallet & mobile banking), DANA, dan GoPay. Detail di [bimxyz.id/payment](https://www.bimxyz.id/payment/).
